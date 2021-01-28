@@ -6,8 +6,8 @@ function App() {
       <header className="App-header">
         Header
       </header>
-      <Category />
-      <ProductList/>
+      {/* <Category /> */}
+      {/* <ProductList/> */}
       <footer>
         Footer
       </footer>

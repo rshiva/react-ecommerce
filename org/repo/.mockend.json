@@ -1,14 +1,10 @@
 {
-  "Category": {
-    "title": "string",
-    "createdAt": "date",
-    "products": "Product[]"
-  },
   "Product": {
     "name": "string",
     "price": "int",
     "in_stock": "boolean",
     "description": "string",
-    "image": "string"
+    "image": "string",
+    "createdAt": "date"
   }
 }
